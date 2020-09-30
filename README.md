@@ -1,2 +1,2 @@
-# design-public-assets
-Proprietary design asset
+# Design Public Assets
+Proprietary design assets
