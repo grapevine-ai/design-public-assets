@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="43px" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>ICON/contact/www@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Personal-1" transform="translate(-225.000000, -133.000000)">
+            <g id="Contact" transform="translate(15.000000, 79.000000)">
+                <g id="ICONS/contact/www" transform="translate(210.000000, 54.000000)">
+                    <g id="www" transform="translate(0.250000, 0.000000)">
+                        <g id="Group-5" fill="#2E1B9A">
+                            <g id="Envelope">
+                                <ellipse id="Oval" cx="21.0134793" cy="21.0134793" rx="21.0134793" ry="21.0134793"></ellipse>
+                            </g>
+                        </g>
+                        <text id="www." font-family="Lato" font-size="11" font-weight="bold" letter-spacing="-0.5" fill="#FFFFFF">
+                            <tspan x="6.70041769" y="24.4310818">www.</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="43px" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>ICON/contact/facebook@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Personal-1" transform="translate(-45.000000, -196.000000)">
+            <g id="Contact" transform="translate(15.000000, 79.000000)">
+                <g id="ICONS/contact/facebook" transform="translate(30.000000, 117.000000)">
+                    <g id="Facebook">
+                        <path d="M0,21.4512601 C0,9.60405572 9.60405572,0 21.4512601,0 C33.2984646,0 42.9025203,9.60405572 42.9025203,21.4512601 C42.9025203,33.2984646 33.2984646,42.9025203 21.4512601,42.9025203 C9.60405572,42.9025203 0,33.2984646 0,21.4512601 Z" id="back" fill="#3B5998"></path>
+                        <path d="M22.9721143,33.3490914 L22.9721143,21.6784733 L26.1937153,21.6784733 L26.620647,17.6567137 L22.9721143,17.6567137 L22.9775878,15.6437843 C22.9775878,14.5948475 23.0772508,14.0328031 24.5838271,14.0328031 L26.5978409,14.0328031 L26.5978409,10.0105881 L23.3757837,10.0105881 C19.505575,10.0105881 18.1433618,11.9615742 18.1433618,15.2425193 L18.1433618,17.6571692 L15.7309241,17.6571692 L15.7309241,21.6789288 L18.1433618,21.6789288 L18.1433618,33.3490914 L22.9721143,33.3490914 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
